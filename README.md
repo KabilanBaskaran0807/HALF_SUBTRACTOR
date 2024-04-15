@@ -1,6 +1,6 @@
 # HALF_SUBTRACTOR
 # Aim
-To simulate and synthesis half subtractor using Xilinx ISE.
+To simulate and synthesis half subtractor using vivado
 
 # APPARATUS REQUIRED:
 vivado 2023.2 software.
